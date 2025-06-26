@@ -2,7 +2,10 @@ Rencana Konten Imanuel
 - javascript
   * ES6
   * Framework js
+   ^Vue
 - struktur data dasar
 - php framework
+  ^laravel
 - interview
 - vlog
+- python
